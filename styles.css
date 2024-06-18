@@ -1,0 +1,17 @@
+.end {
+    text-align: right;
+}
+
+.left-text {
+    color: white;
+}
+
+.skills {
+    display: flex;
+    flex-direction: column;
+}
+
+.skills-list {
+    list-style: none;
+    padding:0;
+}
